@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# RAG vector store (rebuilt by 4_rag/03_build_vectorstore.py)
+4_rag/chroma_db/
+
+# OS
+.DS_Store
